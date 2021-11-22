@@ -1,4 +1,12 @@
 { "compressionlevel":-1,
+ "editorsettings":
+    {
+     "export":
+        {
+         "format":"json",
+         "target":"..\/..\/..\/Data\/Work\/04_Sonstige Aufgaben\/WorkAdventure\/workadventure-mnt-gh-pages\/public\/map..json"
+        }
+    },
  "height":36,
  "infinite":false,
  "layers":[
