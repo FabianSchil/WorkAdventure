@@ -316,6 +316,7 @@
          "imagewidth":1056,
          "margin":0,
          "name":"fantasyBar_IndoorSprites",
+         "objectalignment":"topleft",
          "spacing":0,
          "tilecount":665,
          "tileheight":32,
